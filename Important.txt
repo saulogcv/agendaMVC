@@ -1,0 +1,1 @@
+The app should be open with the VIEW, didn't used the App.
